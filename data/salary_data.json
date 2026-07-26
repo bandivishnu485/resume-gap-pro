@@ -1,0 +1,62 @@
+{
+  "Machine Learning Engineer": {
+    "0-40": {"min": 3, "max": 5, "currency": "LPA"},
+    "40-60": {"min": 5, "max": 10, "currency": "LPA"},
+    "60-80": {"min": 10, "max": 18, "currency": "LPA"},
+    "80-100": {"min": 18, "max": 35, "currency": "LPA"}
+  },
+  "Software Engineer": {
+    "0-40": {"min": 3, "max": 6, "currency": "LPA"},
+    "40-60": {"min": 6, "max": 12, "currency": "LPA"},
+    "60-80": {"min": 12, "max": 20, "currency": "LPA"},
+    "80-100": {"min": 20, "max": 40, "currency": "LPA"}
+  },
+  "Data Analyst": {
+    "0-40": {"min": 2, "max": 4, "currency": "LPA"},
+    "40-60": {"min": 4, "max": 7, "currency": "LPA"},
+    "60-80": {"min": 7, "max": 12, "currency": "LPA"},
+    "80-100": {"min": 12, "max": 20, "currency": "LPA"}
+  },
+  "Data Scientist": {
+    "0-40": {"min": 3, "max": 6, "currency": "LPA"},
+    "40-60": {"min": 6, "max": 12, "currency": "LPA"},
+    "60-80": {"min": 12, "max": 20, "currency": "LPA"},
+    "80-100": {"min": 20, "max": 35, "currency": "LPA"}
+  },
+  "Backend Engineer": {
+    "0-40": {"min": 3, "max": 5, "currency": "LPA"},
+    "40-60": {"min": 5, "max": 10, "currency": "LPA"},
+    "60-80": {"min": 10, "max": 18, "currency": "LPA"},
+    "80-100": {"min": 18, "max": 35, "currency": "LPA"}
+  },
+  "Full Stack Developer": {
+    "0-40": {"min": 3, "max": 5, "currency": "LPA"},
+    "40-60": {"min": 5, "max": 10, "currency": "LPA"},
+    "60-80": {"min": 10, "max": 18, "currency": "LPA"},
+    "80-100": {"min": 18, "max": 32, "currency": "LPA"}
+  },
+  "DevOps Engineer": {
+    "0-40": {"min": 3, "max": 6, "currency": "LPA"},
+    "40-60": {"min": 6, "max": 12, "currency": "LPA"},
+    "60-80": {"min": 12, "max": 20, "currency": "LPA"},
+    "80-100": {"min": 20, "max": 38, "currency": "LPA"}
+  },
+  "Product Manager": {
+    "0-40": {"min": 5, "max": 10, "currency": "LPA"},
+    "40-60": {"min": 10, "max": 18, "currency": "LPA"},
+    "60-80": {"min": 18, "max": 28, "currency": "LPA"},
+    "80-100": {"min": 28, "max": 50, "currency": "LPA"}
+  },
+  "Frontend Developer": {
+    "0-40": {"min": 2, "max": 5, "currency": "LPA"},
+    "40-60": {"min": 5, "max": 9, "currency": "LPA"},
+    "60-80": {"min": 9, "max": 16, "currency": "LPA"},
+    "80-100": {"min": 16, "max": 28, "currency": "LPA"}
+  },
+  "Data Engineer": {
+    "0-40": {"min": 3, "max": 6, "currency": "LPA"},
+    "40-60": {"min": 6, "max": 12, "currency": "LPA"},
+    "60-80": {"min": 12, "max": 20, "currency": "LPA"},
+    "80-100": {"min": 20, "max": 35, "currency": "LPA"}
+  }
+}

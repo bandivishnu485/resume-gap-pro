@@ -1,0 +1,62 @@
+{
+  "Google": {
+    "focus": ["DSA", "System Design", "Problem Solving", "Algorithms"],
+    "weights": {"DSA": 0.40, "System Design": 0.30, "Communication": 0.15, "Domain": 0.15},
+    "rounds": ["Online Assessment", "3x Technical", "Googleyness & Leadership"],
+    "tip": "Heavy focus on time/space complexity. Practice LeetCode Hard. Know your Big-O cold. Expect Googleyness questions about ambiguity and collaboration."
+  },
+  "Amazon": {
+    "focus": ["DSA", "System Design", "Leadership Principles", "Ownership"],
+    "weights": {"DSA": 0.35, "System Design": 0.25, "Leadership Principles": 0.30, "Domain": 0.10},
+    "rounds": ["Online Assessment", "2x Technical", "Bar Raiser", "Hiring Manager"],
+    "tip": "Amazon's 16 Leadership Principles are NON-NEGOTIABLE. Use STAR format for every behavioural answer. Expect questions on ownership, customer obsession, and delivering results."
+  },
+  "Microsoft": {
+    "focus": ["DSA", "System Design", "OOP", "Problem Solving"],
+    "weights": {"DSA": 0.35, "System Design": 0.25, "OOP": 0.20, "Communication": 0.20},
+    "rounds": ["Online Assessment", "3-4x Technical", "As Appropriate (AA) Interview"],
+    "tip": "Strong emphasis on clean code and OOP principles. Expect design patterns. Growth mindset questions common. Coding bar is slightly lower than Google but SD is rigorous."
+  },
+  "TCS": {
+    "focus": ["Aptitude", "Verbal Ability", "Coding Basics", "Technical Fundamentals"],
+    "weights": {"Aptitude": 0.35, "Coding": 0.25, "Technical": 0.25, "HR": 0.15},
+    "rounds": ["TCS NQT", "Technical Interview", "HR Interview"],
+    "tip": "Clear TCS NQT with high score (aim for 80+ percentile). Focus on core CS fundamentals, basic DSA, and DBMS. Communication matters significantly in the HR round."
+  },
+  "Infosys": {
+    "focus": ["Aptitude", "Logical Reasoning", "Verbal Ability", "Technical Basics"],
+    "weights": {"Aptitude": 0.30, "Technical": 0.30, "Communication": 0.25, "HR": 0.15},
+    "rounds": ["Online Assessment", "Hackathon (for Specialist)", "Technical Interview", "HR"],
+    "tip": "InfyTQ certification helps significantly. Focus on Python basics, SQL, and project explanations. Specialist Engineer role needs stronger coding. Clear verbal communication is key."
+  },
+  "Flipkart": {
+    "focus": ["DSA", "System Design", "Problem Solving", "Backend"],
+    "weights": {"DSA": 0.40, "System Design": 0.30, "Backend": 0.20, "Communication": 0.10},
+    "rounds": ["Online Test", "3x Technical", "Hiring Manager"],
+    "tip": "Flipkart has a very high DSA bar — close to FAANG. Focus on LeetCode Medium-Hard. E-commerce scale problems common in system design. Strong backend knowledge is a plus."
+  },
+  "Wipro": {
+    "focus": ["Aptitude", "Written English", "Technical Basics", "Personality"],
+    "weights": {"Aptitude": 0.30, "Technical": 0.30, "Communication": 0.25, "Personality": 0.15},
+    "rounds": ["AMCAT/WILP Test", "Technical Interview", "HR Interview"],
+    "tip": "Focus on aptitude speed and accuracy. Basic programming, OOP concepts, and DBMS are tested. Elite NTH track has a higher coding bar. Good communication is highly valued."
+  },
+  "Swiggy": {
+    "focus": ["DSA", "System Design", "Backend", "Product Thinking"],
+    "weights": {"DSA": 0.35, "System Design": 0.35, "Product": 0.15, "Communication": 0.15},
+    "rounds": ["Online Assessment", "2-3x Technical", "Hiring Manager", "Leadership"],
+    "tip": "Strong focus on real-time systems and distributed architecture. Expect delivery/logistics system design problems. Product thinking matters — understand Swiggy's business deeply."
+  },
+  "Razorpay": {
+    "focus": ["DSA", "System Design", "Backend", "Fintech Domain"],
+    "weights": {"DSA": 0.30, "System Design": 0.35, "Backend": 0.25, "Domain": 0.10},
+    "rounds": ["Online Assessment", "3x Technical", "Culture Fit"],
+    "tip": "Razorpay has a very high bar for system design — especially around payments, consistency, and reliability. Understand ACID properties, distributed transactions, and idempotency."
+  },
+  "FAANG (General)": {
+    "focus": ["DSA", "System Design", "Behavioural", "Domain Expertise"],
+    "weights": {"DSA": 0.35, "System Design": 0.30, "Behavioural": 0.20, "Domain": 0.15},
+    "rounds": ["Online Assessment", "4-5x Technical", "Behavioural", "Hiring Committee"],
+    "tip": "Practise LeetCode Medium-Hard daily. Prepare system design for 1 hour open-ended problems. Your behavioural answers must show measurable impact. Prepare 5-7 STAR stories."
+  }
+}

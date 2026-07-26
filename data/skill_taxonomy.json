@@ -1,0 +1,284 @@
+{
+  "python": {
+    "aliases": ["python3", "py", "python programming", "python scripting", "python development"],
+    "category": "programming",
+    "soft": false,
+    "weight": 0.9
+  },
+  "sql": {
+    "aliases": ["structured query language", "mysql", "sql queries", "database querying", "sequel"],
+    "category": "database",
+    "soft": false,
+    "weight": 0.85
+  },
+  "data structures": {
+    "aliases": ["dsa", "data structures and algorithms", "ds&a", "competitive programming", "leetcode"],
+    "category": "cs fundamentals",
+    "soft": false,
+    "weight": 0.9
+  },
+  "algorithms": {
+    "aliases": ["algo", "algorithm design", "sorting", "searching", "dynamic programming", "dp"],
+    "category": "cs fundamentals",
+    "soft": false,
+    "weight": 0.85
+  },
+  "system design": {
+    "aliases": ["system design interview", "scalable systems", "distributed architecture", "hld", "high level design"],
+    "category": "architecture",
+    "soft": false,
+    "weight": 0.8
+  },
+  "machine learning": {
+    "aliases": ["ml", "machine learning engineering", "ml models", "supervised learning", "sklearn", "scikit-learn"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.9
+  },
+  "deep learning": {
+    "aliases": ["dl", "neural networks", "deep neural networks", "ann", "artificial neural network"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.85
+  },
+  "nlp": {
+    "aliases": ["natural language processing", "text processing", "text analysis", "computational linguistics"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.8
+  },
+  "computer vision": {
+    "aliases": ["cv", "image processing", "object detection", "image recognition", "opencv"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.75
+  },
+  "mlops": {
+    "aliases": ["ml operations", "ml deployment", "model deployment", "ml engineering", "ml infrastructure"],
+    "category": "devops",
+    "soft": false,
+    "weight": 0.75
+  },
+  "docker": {
+    "aliases": ["containerisation", "containers", "dockerfile", "docker compose", "container orchestration"],
+    "category": "devops",
+    "soft": false,
+    "weight": 0.8
+  },
+  "kubernetes": {
+    "aliases": ["k8s", "container orchestration", "kubectl", "helm", "k8s cluster"],
+    "category": "devops",
+    "soft": false,
+    "weight": 0.7
+  },
+  "git": {
+    "aliases": ["version control", "github", "gitlab", "git workflow", "branching", "source control"],
+    "category": "tools",
+    "soft": false,
+    "weight": 0.75
+  },
+  "linux": {
+    "aliases": ["unix", "bash", "shell", "command line", "terminal", "shell scripting", "ubuntu"],
+    "category": "systems",
+    "soft": false,
+    "weight": 0.7
+  },
+  "fastapi": {
+    "aliases": ["fast api", "python api", "async api", "pydantic"],
+    "category": "web framework",
+    "soft": false,
+    "weight": 0.7
+  },
+  "flask": {
+    "aliases": ["flask framework", "python web", "flask app", "flask development"],
+    "category": "web framework",
+    "soft": false,
+    "weight": 0.65
+  },
+  "react": {
+    "aliases": ["reactjs", "react.js", "react native", "react hooks", "redux"],
+    "category": "frontend",
+    "soft": false,
+    "weight": 0.75
+  },
+  "node.js": {
+    "aliases": ["nodejs", "node", "express", "express.js", "backend javascript"],
+    "category": "backend",
+    "soft": false,
+    "weight": 0.7
+  },
+  "mongodb": {
+    "aliases": ["mongo", "nosql", "document database", "mongoose"],
+    "category": "database",
+    "soft": false,
+    "weight": 0.65
+  },
+  "postgresql": {
+    "aliases": ["postgres", "psql", "relational database", "pg", "postgres db"],
+    "category": "database",
+    "soft": false,
+    "weight": 0.7
+  },
+  "tensorflow": {
+    "aliases": ["tf", "tensorflow 2", "keras", "tensorflow/keras"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.75
+  },
+  "pytorch": {
+    "aliases": ["torch", "pytorch framework", "libtorch"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.75
+  },
+  "hugging face": {
+    "aliases": ["huggingface", "transformers library", "hf transformers", "hugging face transformers"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.7
+  },
+  "statistics": {
+    "aliases": ["statistical analysis", "probability", "hypothesis testing", "statistical modelling", "stats"],
+    "category": "mathematics",
+    "soft": false,
+    "weight": 0.75
+  },
+  "linear algebra": {
+    "aliases": ["matrix operations", "vectors", "matrices", "linear transformations", "eigenvalues"],
+    "category": "mathematics",
+    "soft": false,
+    "weight": 0.65
+  },
+  "aws": {
+    "aliases": ["amazon web services", "amazon cloud", "s3", "ec2", "lambda", "aws cloud"],
+    "category": "cloud",
+    "soft": false,
+    "weight": 0.75
+  },
+  "cloud computing": {
+    "aliases": ["cloud", "cloud services", "cloud platform", "gcp", "azure", "iaas", "paas"],
+    "category": "cloud",
+    "soft": false,
+    "weight": 0.7
+  },
+  "rest api": {
+    "aliases": ["restful api", "rest", "api design", "api development", "http api", "web api"],
+    "category": "architecture",
+    "soft": false,
+    "weight": 0.75
+  },
+  "data analysis": {
+    "aliases": ["data analytics", "exploratory data analysis", "eda", "data insights", "data interpretation"],
+    "category": "analytics",
+    "soft": false,
+    "weight": 0.75
+  },
+  "ci/cd": {
+    "aliases": ["continuous integration", "continuous deployment", "github actions", "jenkins", "devops pipeline"],
+    "category": "devops",
+    "soft": false,
+    "weight": 0.7
+  },
+  "communication": {
+    "aliases": ["verbal communication", "written communication", "presentation skills", "articulate", "communicates effectively"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.8
+  },
+  "leadership": {
+    "aliases": ["led", "managed team", "coordinated", "spearheaded", "oversaw", "directed", "guided team", "mentored"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.75
+  },
+  "teamwork": {
+    "aliases": ["collaborated", "worked with team", "cross-functional", "team player", "cooperative"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.7
+  },
+  "problem solving": {
+    "aliases": ["analytical thinking", "troubleshooting", "debugging", "root cause analysis", "critical thinking"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.8
+  },
+  "project management": {
+    "aliases": ["managed project", "project planning", "delivery", "sprint planning", "agile management"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.65
+  },
+  "time management": {
+    "aliases": ["prioritisation", "meeting deadlines", "deadline-driven", "organised"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.6
+  },
+  "adaptability": {
+    "aliases": ["flexible", "quick learner", "fast learner", "adapts to change", "versatile"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.65
+  },
+  "creativity": {
+    "aliases": ["innovative", "creative thinking", "ideation", "creative problem solving", "novel solutions"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.6
+  },
+  "attention to detail": {
+    "aliases": ["detail-oriented", "meticulous", "thorough", "precise", "accurate"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.65
+  },
+  "ownership": {
+    "aliases": ["takes initiative", "proactive", "self-motivated", "driven", "accountable", "responsible"],
+    "category": "soft",
+    "soft": true,
+    "weight": 0.7
+  },
+  "agile": {
+    "aliases": ["scrum", "kanban", "sprint", "agile methodology", "agile development", "jira"],
+    "category": "methodology",
+    "soft": false,
+    "weight": 0.65
+  },
+  "data visualisation": {
+    "aliases": ["data visualization", "matplotlib", "plotly", "seaborn", "tableau", "power bi", "dashboards"],
+    "category": "analytics",
+    "soft": false,
+    "weight": 0.65
+  },
+  "numpy": {
+    "aliases": ["numerical python", "np", "numpy arrays", "numerical computing"],
+    "category": "tools",
+    "soft": false,
+    "weight": 0.65
+  },
+  "pandas": {
+    "aliases": ["pd", "data manipulation", "dataframe", "data wrangling"],
+    "category": "tools",
+    "soft": false,
+    "weight": 0.7
+  },
+  "llm": {
+    "aliases": ["large language model", "gpt", "chatgpt", "gemini", "claude", "language model", "generative ai"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.8
+  },
+  "rag": {
+    "aliases": ["retrieval augmented generation", "retrieval-augmented generation", "rag pipeline", "vector search"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.75
+  },
+  "prompt engineering": {
+    "aliases": ["prompt design", "prompting", "llm prompting", "instruction tuning"],
+    "category": "ai/ml",
+    "soft": false,
+    "weight": 0.7
+  }
+}
